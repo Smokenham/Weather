@@ -36,6 +36,8 @@ font-family: 'Josefin Sans' !important;
 margin-top:20px;
 background: #000;
 border-radius:30px;
+	border: #fff solid 4px !important;
+	 
 }
 
 .result{
@@ -50,7 +52,7 @@ img {
 }
 
 #mapResult img{
-	border-radius:15px !important;
+	border-radius:30px !important;
 }
 
 
@@ -71,6 +73,10 @@ img {
 
 .result{
 	font-size:1.2em;
+}
+
+.mainSection{
+	border: #fff solid 3px !important;
 } 
 	}
 
