@@ -14,7 +14,7 @@ body{
 .logo{
 	position:absolute;
 	display:block;
-	background: url(Images/dh.png) no-repeat;
+	background: url(images/dh.png) no-repeat;
      top:15px;
 	left:15px;
 	width:75px;
