@@ -4,6 +4,13 @@ body{
 	font-family: 'Cutive Mono'!important ;
 }
 
+::selection {
+  background: rgb(0,192,255); /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: rgb(0,192,255); /* Gecko Browsers */
+}
+
 .logo{
 	position:absolute;
 	display:block;
